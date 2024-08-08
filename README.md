@@ -1,3 +1,3 @@
 # Ankit
 My personal repository.
-![Header](./headerGit/.png)
+![Header](./headerGit.png)
